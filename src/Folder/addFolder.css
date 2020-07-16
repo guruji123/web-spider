@@ -1,0 +1,11 @@
+.form{
+    height: auto;
+    width: 250px;
+    display: flex;
+}
+
+.modal-header{
+    margin-left: 10px;
+    padding: 10px;
+    display: block;
+}
